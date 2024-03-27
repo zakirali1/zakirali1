@@ -1,4 +1,4 @@
-###Hi there 👋
+### Hi there 👋
 
 ### I am currently working on a number of project in multiple languages, including:
 *Javascript 
@@ -6,7 +6,7 @@
 *Java. 
 
 
-### ** My Journey to Code **
+### **My Journey to Code**
 
 
 
