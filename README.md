@@ -12,14 +12,16 @@ I've been coding for a few years now and have learnt a few languages along the w
 
 It has been nothing short of mindblowing.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset=">
-  <img alt="YOUR-ALT-TEXT" src="https://thumbs.dreamstime.com/b/mind-blown-emoji-exploding-head-emoticon-white-background-d-rendering-219279605.jpg">
-</picture>
-
-
 Filled with many ups :flight_departure: and downs :flight_arrival:
 
+
+### I'm looking to collaborate on...
+
+| language  | Projects |
+|-----:|---------------|
+|     1|               |
+|     2|               |
+|     3|               |
 
 
 <!--
