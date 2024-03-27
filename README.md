@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ### I am currently working on a number of project in multiple languages, including:
-*Javascript 
-*Python 
-*Java. 
+* Javascript 
+* Python 
+* Java. 
 
 
 ### **My Journey to Code**
