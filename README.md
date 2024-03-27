@@ -25,6 +25,14 @@ Filled with many ups :flight_departure: and downs :flight_arrival:
 
 The above projects would greatly help my _learning_
 
+### Fun fact:
+
+I once played football with prince and absolutely thrashed him. He was so upset he released a single called purple rain. :man_dancing:
+
+### How to reach me
+
+just email.
+
 <!--
 **zakirali1/zakirali1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
