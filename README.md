@@ -19,10 +19,11 @@ Filled with many ups :flight_departure: and downs :flight_arrival:
 
 | language  | Projects |
 |-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
+|     Python | Django App              |
+|     PERN |   Full stack App            |
+|     Java  |   Mock Banking App            |
 
+The above projects would greatly help my _learning_
 
 <!--
 **zakirali1/zakirali1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
