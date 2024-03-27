@@ -14,7 +14,7 @@ It has been nothing short of mindblowing.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=">
-  <img alt="YOUR-ALT-TEXT" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fmind-blowing&psig=AOvVaw3eE6XQNTYy3-LU5on0OCjG&ust=1711642881908000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDMsOHslIUDFQAAAAAdAAAAABAT">
+  <img alt="YOUR-ALT-TEXT" src="https://media.istockphoto.com/id/1319947943/photo/mind-blown-emoji-exploding-head-emoticon-on-white-background-3d-rendering.jpg?s=612x612&w=0&k=20&c=oG-CmmJ6MgiXzM8hLaenAwHML0IRBfThQ3iZFOWGdY4=">
 </picture>
 
 
