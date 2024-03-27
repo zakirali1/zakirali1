@@ -11,8 +11,10 @@
 It has been nothing short of mindblowing.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/474x/d8/2a/65/d82a653cb4de1ea3beb2c78d3bec0655.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fexploding-head-joypixels-sticker-exploding-head-joypixels-mind-blown-discover-share-gifs--364862007324285683%2F&psig=AOvVaw3eE6XQNTYy3-LU5on0OCjG&ust=1711642881908000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDMsOHslIUDFQAAAAAdAAAAABAE">
 </picture>
+
+
 
 Filled with many ups :flight_departure: and downs :flight_arrival:
 
