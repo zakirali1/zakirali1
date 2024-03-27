@@ -14,6 +14,12 @@ It has been nothing short of mindblowing.
   <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/474x/d8/2a/65/d82a653cb4de1ea3beb2c78d3bec0655.jpg">
 </picture>
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
 
 
 Filled with many ups :flight_departure: and downs :flight_arrival:
